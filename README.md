@@ -72,4 +72,17 @@ load_to_postgres.py                loads cleaned CSVs into PostgreSQL
 sales_funnel_analysis_queries.sql  all SQL queries
 ```
 
+## Author
+
+**Gurwinder Singh**
+B.Tech CSE, Punjabi University, Patiala
+[GitHub](https://github.com/Gurwinder-coder) · [LinkedIn](https://linkedin.com/in/gurwinder-singh-32b102344)
+
 Data credit: Maven Analytics, CRM Sales Opportunities.
+
+
+
+
+
+
+
